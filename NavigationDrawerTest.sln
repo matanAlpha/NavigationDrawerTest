@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavigationDrawerTest", "NavigationDrawerTest\NavigationDrawerTest.csproj", "{DABB2483-1862-4272-9CF8-ABF3F331D97D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DABB2483-1862-4272-9CF8-ABF3F331D97D}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{DABB2483-1862-4272-9CF8-ABF3F331D97D}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{DABB2483-1862-4272-9CF8-ABF3F331D97D}.Release|iPhone.ActiveCfg = Release|iPhone
+		{DABB2483-1862-4272-9CF8-ABF3F331D97D}.Release|iPhone.Build.0 = Release|iPhone
+		{DABB2483-1862-4272-9CF8-ABF3F331D97D}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{DABB2483-1862-4272-9CF8-ABF3F331D97D}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{DABB2483-1862-4272-9CF8-ABF3F331D97D}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{DABB2483-1862-4272-9CF8-ABF3F331D97D}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
